@@ -1,3 +1,4 @@
+-----
 
 # GDSC-DAU-GitGuide
 여러분들의 활발하고 편안한 스터디 및 프로젝트 등 **협업 활동**을 위해 준비한 **GitGuide** 입니다. <br>
@@ -14,6 +15,7 @@
 
 <sup>*타인의 권리를 침해하는 게시물 및 댓글은 GDSC Core Member 논의 후 삭제 될 수 있습니다.*</sup>
 
+---
 
 
 # Pull Requests & Issues Rules
