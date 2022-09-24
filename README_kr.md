@@ -13,6 +13,7 @@
 # Review Rules
 
 
+<br>
+<p align="center">✨모두 확인 하셨으면 Star 부탁드립니다✨<p>
+<p align="center"><img src="https://user-images.githubusercontent.com/86817044/192083065-da52375f-314a-498d-9294-e03a04352391.png"></p>
 
-
-✨모두 확인 하셨으면 Star 부탁드립니다 ✨
