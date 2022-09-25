@@ -1,14 +1,12 @@
 ﻿## PR Checklist
-Please refer to the guidelines document https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/README.md.  
-If you agree, make [ ] below [x].
----
+#### Please refer to the guidelines document https://github.com/GDSC-DONGA/GDSC-DAU-GitGuide/README.md.  
+#### If you agree, make [ ] below [x].
 
 - [ ] Checked the guideline document and follow the rules.
 
 
 ## PR Type
-What kind of change does this PR introduce?  
----
+#### What kind of change does this PR introduce?  
 
 - [ ] Bugfix
 - [ ] Feature
@@ -22,14 +20,12 @@ What kind of change does this PR introduce?
 
 
 ## What is the current behavior?
-Please write down the issue number related to this Pull Request.  
-You can check the title immediately by putting # in front of the issue or PR number. (Example. #99)
----
+#### Please write down the issue number related to this Pull Request.  
+#### You can check the title immediately by putting # in front of the issue or PR number. (Example. #99)
 
 Issue Number: #N/A
 
 
 ## PR Description
-Please give me a rough idea of what changes with this PR.
----
+#### Please give me a rough idea of what changes with this PR.
 
