@@ -56,3 +56,8 @@ You can create an issue by selecting the code after View File you are requesting
 
 - You can also create an issue directly from a comment in the review of an issue or a pull request.
  ![3](https://yagom.net/wp-content/uploads/hm_bbpui/7448/0q0nu8nxh8qrkgk922heaf3pgtu0vezk.png)
+
+Writer - jh park  
+Email - jhparkintlot@gmail.com  
+Instagram - jh_parkland  
+[Homepage](https://www.jhpark.org/)

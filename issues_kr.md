@@ -54,3 +54,8 @@
 
 - 이슈 검토 또는 풀 리퀘스트의 댓글에서 직접 이슈를 생성할 수도 있습니다.
  ![3](https://yagom.net/wp-content/uploads/hm_bbpui/7448/0q0nu8nxh8qrkgk922heaf3pgtu0vezk.png)
+
+Writer - jh park  
+Email - jhparkintlot@gmail.com  
+Instagram - jh_parkland  
+[Homepage](https://www.jhpark.org/)
