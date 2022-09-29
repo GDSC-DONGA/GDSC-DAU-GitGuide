@@ -249,14 +249,29 @@ __GDSC-DAU__
 이렇게
 
 ## 표
+
+하이픈(-)는 세개이상   
+:가 없을시 우측정렬   
+양쪽에 :가 있을시 중앙정렬
+
 ```
 |A|B|C|
 |---|---|---|
 |1|C++|Visual Studio|
 |2|Python|Colab|
+
+|DEF|GH|I|
+|:---:|:---|---:|
+|1|C++|Visual Studio|
+|2|Python|Colab|
 ```
 |A|B|C|
 |---|---|---|
+|1|C++|Visual Studio|
+|2|Python|Colab|
+
+|DEF|GH|I|
+|:---:|:---|---:|
 |1|C++|Visual Studio|
 |2|Python|Colab|
 
