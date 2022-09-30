@@ -20,7 +20,7 @@
 ## Rules & Guides & Tips
 쉽고 효율적인 Github 활동을 위해 Skill 팀이 열심히 준비했습니다. **꼭! 한번 씩 읽어주세요!**
 
-### [📋Pull Requests Rules](./Pull%Requests%Rules_kr.md) 
+### [📋Pull Requests Rules](./Pull%20Requests%20Rules_kr.md) 
 
 ### [📋Issues Rules](./Issues%Rules_kr.md)
 
