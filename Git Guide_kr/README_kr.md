@@ -22,17 +22,17 @@
 
 ### [📋Pull Requests Rules](./Pull%20Requests%20Rules_kr.md) 
 
-### [📋Issues Rules](./Issues%Rules_kr.md)
+### [📋Issues Rules](./Issues%20Rules_kr.md)
 
-### [📋Commit Rules](./Commit%Rules_kr.md)
+### [📋Commit Rules](./Commit%20Rules_kr.md)
 
-### [📋Branch Guide](./Branch%Guide_kr.md)
+### [📋Branch Guide](./Branch%20Guide_kr.md)
 
-### [📋Review Guide](./Review%Guide_kr.md)
+### [📋Review Guide](./Review%20Guide_kr.md)
 
-### [📋Version Control Tips](./Version%Control%Tips%FAQ_kr.md)
+### [📋Version Control Tips](./Version%20Control%20Tips%20FAQ_kr.md)
 
-### [📋Git Blog Tips](./Git%Blog%Tips%FAQ_KR.md)
+### [📋Git Blog Tips](./Git%20Blog%20Tips%20FAQ_KR.md)
 
 ### [📋MarkDown](../Makrdown.md)
 
