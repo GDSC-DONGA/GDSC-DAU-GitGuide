@@ -18,3 +18,8 @@ A : 아래 표를 확인해 주세요
 |해당 코드 라인 이동|l|
 |브랜치 또는 태그 변경|w|
 |검색창 이동|s or /|
+
+----
+Writer - jh park  
+Email - jhparkintlot@gmail.com  
+Instagram - jh_parkland  
