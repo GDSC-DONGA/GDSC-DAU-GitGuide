@@ -16,7 +16,7 @@
 <sup>*타인의 권리를 침해하는 게시물 및 댓글은 GDSC Core Member 논의 후 삭제 될 수 있습니다.*</sup>
 
 ---
-Branch Guide_kr.md
+[브랜치 가이드](./Branch&Guide_kr.md)
 path change
 12 minutes ago
 Commit Rules_kr.md
