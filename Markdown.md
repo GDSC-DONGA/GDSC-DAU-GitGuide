@@ -232,7 +232,7 @@ __GDSC-DAU__
 <img src="http://cfile6.uf.tistory.com/image/2426E646543C9B4532C7B0" width="40%" height="30%" title="%(비율) 크기 설정" alt="RubberDuck"></img>
 
 ## 9. 줄바꿈
-3칸 이상 띄어쓰기(` `)를 하면 줄이 바뀐다.
+2칸 이상 띄어쓰기(` `)후 Enter 하면 줄이 바뀐다.
 
 ```
 * 줄 바꿈을 하기 위해서는 문장 마지막에서 3칸이상을 띄어쓰기해야 한다. 
