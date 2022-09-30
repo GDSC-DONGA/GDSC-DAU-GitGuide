@@ -11,3 +11,8 @@ A : \ 문자를 같이 사용하면 됩니다. ex.) ```\[제목](url)``` 처럼 
 
 > Q : Markdown으로 이미지 삽입시 조금더 편리하게 할 수 있는 방법이나 팁이 있나요?  
 A : 웹 방식으로 적용하는 방법이 있습니다(Html 사용)  
+
+---- 
+Writer - jh park  
+Email - jhparkintlot@gmail.com  
+Instagram - jh_parkland  
