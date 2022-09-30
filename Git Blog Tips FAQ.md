@@ -11,3 +11,9 @@ A : You can use the \ character together. ex.) ```\[title](url)```
 
 > Q: Are there any methods or tips to make it a little more convenient when inserting images with Markdown?  
 A : There is a way to apply it in the web way (using Html)
+
+
+----
+Writer - jh park  
+Email - jhparkintlot@gmail.com  
+Instagram - jh_parkland  
