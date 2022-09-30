@@ -60,4 +60,4 @@ You can create an issue by selecting the code after View File you are requesting
 Writer - jh park  
 Email - jhparkintlot@gmail.com  
 Instagram - jh_parkland  
-[Homepage](https://www.jhpark.org/)
+[](https://www.jhpark.org/)
