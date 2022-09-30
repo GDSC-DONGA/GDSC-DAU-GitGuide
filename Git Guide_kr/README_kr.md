@@ -17,23 +17,28 @@
 
 ---
 
-### [Pull Requests Rules](./Pull%Requests%Rules_kr.md) 
+## Rules & Guides & Tips
+쉽고 효율적인 Github 활동을 위해 Skill 팀이 열심히 준비했습니다. **꼭! 한번 씩 읽어주세요!**
 
-### [Issues Rules](./Issues%Rules_kr.md)
+### [📋Pull Requests Rules](./Pull%Requests%Rules_kr.md) 
 
-### [Commit Rules](./Commit%Rules_kr.md)
+### [📋Issues Rules](./Issues%Rules_kr.md)
 
-### [Branch Guide](./Branch%Guide_kr.md)
+### [📋Commit Rules](./Commit%Rules_kr.md)
 
-### [Review Guide](./Review%Guide_kr.md)
+### [📋Branch Guide](./Branch%Guide_kr.md)
 
-### [Version Control Tips](./Version%Control%Tips%FAQ_kr.md)
+### [📋Review Guide](./Review%Guide_kr.md)
 
-### [Git Blog Tips](./Git%Blog%Tips%FAQ_KR.md)
+### [📋Version Control Tips](./Version%Control%Tips%FAQ_kr.md)
 
-### [MarkDown](../Makrdown.md)
+### [📋Git Blog Tips](./Git%Blog%Tips%FAQ_KR.md)
 
-### [Dictionary](../Dictionary.md)
+### [📋MarkDown](../Makrdown.md)
+
+### [📋Dictionary](../Dictionary.md)
+
+---
 
 <br>
 <p align="center">✨모두 확인 하셨으면 Star 부탁드립니다✨<p>
