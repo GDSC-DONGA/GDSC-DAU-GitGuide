@@ -5,6 +5,8 @@
 
 **2-1. After fork to your own repository, please develop the function in the `feature/work` content branch. When the feature development is finished, please make a Pull Request to the `develop` branch of the team repository.**
 
+**2-2. In the case of a study, please create a branch under your own name in the study repository and work on it.**
+
 **3. Please use the templete and label when making a pull request.** <br>
   - Labels on GitHub allow you to efficiently manage the status of each PR!
 
