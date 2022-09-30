@@ -32,7 +32,7 @@
 
 ### [📋Version Control Tips](./Version%20Control%20Tips%20FAQ_kr.md)
 
-### [📋Git Blog Tips](./Git%20Blog%20Tips%20FAQ_KR.md)
+### [📋Git Blog Tips](./Git%20Blog%20Tips%20FAQ_kr.md)
 
 ### [📋MarkDown](../Makrdown.md)
 
