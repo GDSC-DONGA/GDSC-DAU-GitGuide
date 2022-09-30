@@ -34,7 +34,7 @@
 
 ### [📋Git Blog Tips](./Git%20Blog%20Tips%20FAQ_kr.md)
 
-### [📋MarkDown](../Makrdown.md)
+### [📋MarkDown](../Markdown.md)
 
 ### [📋Dictionary](../Dictionary.md)
 
