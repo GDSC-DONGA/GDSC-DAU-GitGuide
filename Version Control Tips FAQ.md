@@ -18,3 +18,11 @@ A : Please check the table below
 |Move the corresponding line of code|l|
 |Change branch or tag|w|
 |Move search bar|s or /|
+
+
+
+-----
+Writer - jh park  
+Email - jhparkintlot@gmail.com  
+Instagram - jh_parkland  
+  
