@@ -34,9 +34,9 @@ The Skill team worked hard to prepare for an easy and efficient Github activity.
 
 ### [📋Git Blog Tips](./Git%20Blog%20Tips%20FAQ.md)
 
-### [📋MarkDown](../Markdown.md)
+### [📋MarkDown](./Markdown.md)
 
-### [📋Dictionary](../Dictionary.md)
+### [📋Dictionary](./Dictionary.md)
 
 ---
 
