@@ -1,7 +1,7 @@
 ---
-name: Feature request
+name: "\U0001F4A1Feature request"
 about: "[새로운/기존] 기능을 제안 혹은 요청하세요."
-title: ''
+title: "[Feature]"
 labels: ''
 assignees: ''
 
